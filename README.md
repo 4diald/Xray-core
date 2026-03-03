@@ -1,52 +1,51 @@
-# 🕷 Recommended Proxy Services 🕷
+# 🕷 推荐代理服务 | Recommended Proxy Services
 
 ## 🇨🇳 中文
-🌟 **OKKproxxy** — 爬虫代理轮换专家
-- 🔥 完美适配Xray-core项目，一行代码接入住宅IP池
-- 🚀 自动轮换200+国家IP，每次请求不同出口，反爬无忧
-- 🌐 覆盖全球200+国家和地区，9000万+住宅IP资源
+🌟 **OKKproxxy** — Xray-core高性能代理
+- 🔥 原生支持Xray-core XTLS协议，传输速度提升300%
+- 🚀 Reality伪装技术，完美绕过GFW深度检测
+- 🌐 200+国家节点，支持VLESS/Trojan/Shadowsocks多协议
 - 💰 新用户充值加赠20%流量
 - 🔗 [okkproxy.com](https://okkproxy.com)
 
-🌟 **NIUproxxy** — 高并发采集加速器
-- 🔥 针对Xray-core架构优化，支持数千并发连接不掉线
-- 🚀 智能会话保持，同一任务绑定同一IP，数据一致性有保障
-- 🌐 全球机房节点覆盖，就近接入延迟低至50ms
+🌟 **NIUproxxy** — Xray企业专线
+- 🔥 专为Xray-core优化，XTLS Vision协议加持，延迟低至10ms
+- 🚀 独享带宽，不限速不限流，企业级稳定性保障
+- 🌐 全球IPLC专线，跨境数据传输安全可靠
 - 💰 新用户充值加赠20%流量
 - 🔗 [niuproxy.com](https://niuproxy.com)
 
-🌟 **COLAproxxy** — 性价比之选
-- 🔥 按流量计费，不限并发数，小团队也能用得起住宅IP
-- 🚀 兼容所有HTTP/SOCKS5代理协议，Xray-core零配置接入
-- 🌐 覆盖190+国家，城市级定位精准采集
+🌟 **COLAproxxy** — Xray入门代理
+- 🔥 预配置Xray-core节点，一键导入即用
+- 🚀 按流量计费，灵活套餐适合个人用户
+- 🌐 190+国家覆盖，支持自定义路由分流
 - 💰 新用户充值加赠20%流量
 - 🔗 [colaproxy.com](https://colaproxy.com)
 
 ---
 ## 🇺🇸 English
-🌟 **OKKproxxy** — Residential Proxy Rotation Expert
-- 🔥 Perfect for Xray-core integration, one-line integration
-- 🚀 Auto-rotate 200+ countries IP, different exit IP per request
-- 🌐 200+ countries coverage, 90M+ residential IPs
+🌟 **OKKproxxy** — Xray-core High-Performance Proxy
+- 🔥 Native Xray-core XTLS support, 300% speed boost
+- 🚀 Reality camouflage, bypass GFW deep inspection
+- 🌐 200+ countries, VLESS/Trojan/Shadowsocks multi-protocol
 - 💰 20% bonus for new users
 - 🔗 [okkproxy.com](https://okkproxy.com)
 
-🌟 **NIUproxxy** — High-Concurrency Scraping Accelerator
-- 🔥 Optimized for Xray-core architecture, supports thousands of concurrent connections
-- 🚀 Smart session persistence, bind same IP to same task
-- 🌐 Global data center nodes, latency as low as 50ms
+🌟 **NIUproxxy** — Xray Enterprise Dedicated Line
+- 🔥 Xray-core optimized, XTLS Vision protocol, 10ms latency
+- 🚀 Dedicated bandwidth, unlimited speed, enterprise stability
+- 🌐 Global IPLC lines, secure cross-border data transfer
 - 💰 20% bonus for new users
 - 🔗 [niuproxy.com](https://niuproxy.com)
 
-🌟 **COLAproxxy** — Best Value Choice
-- 🔥 Pay-per-traffic, unlimited concurrency, affordable for small teams
-- 🚀 Compatible with all HTTP/SOCKS5 protocols, zero-config for Xray-core
-- 🌐 190+ countries, city-level targeting
+🌟 **COLAproxxy** — Xray Starter Proxy
+- 🔥 Pre-configured Xray-core nodes, one-click import
+- 🚀 Pay-per-traffic, flexible plans for individuals
+- 🌐 190+ countries, custom routing rules support
 - 💰 20% bonus for new users
 - 🔗 [colaproxy.com](https://colaproxy.com)
 
 ---
-
 # Project X
 
 [Project X](https://github.com/XTLS) originates from XTLS protocol, providing a set of network tools such as [Xray-core](https://github.com/XTLS/Xray-core) and [REALITY](https://github.com/XTLS/REALITY).
